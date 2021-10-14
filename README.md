@@ -1,6 +1,6 @@
 # cookieclicker
 
-## This is the modded version of Cookie Clicker for GameFinder.ga (Hide mod)
+## This is the modded version of Cookie Clicker for GameFinder.ga (Hide mod, no Ads)
 
 <img src="img/perfectCookie.png" width="128">
 
