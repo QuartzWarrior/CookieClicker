@@ -1,5 +1,7 @@
 # cookieclicker
 
+## This is the modded version of Cookie Clicker for GameFinder.ga (Hide mod)
+
 <img src="img/perfectCookie.png" width="128">
 
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
